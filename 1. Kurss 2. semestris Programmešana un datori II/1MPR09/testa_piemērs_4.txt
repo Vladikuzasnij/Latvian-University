@@ -1,0 +1,2650 @@
+Vai vēlaties nejauši novietot savus kuģus? (j - jā / n - nē): Jā
+Jūsu kūģi:
+   A B C D E F G H I J 
+ 1 . S . . . . . S . . 
+ 2 . . . . S . . . . . 
+ 3 . S . . S . . S . S 
+ 4 . S . . . . . S . S 
+ 5 . . . . . S . S . . 
+ 6 S . . . . S . . . . 
+ 7 . . . . . S . . . . 
+ 8 S S S . . S . . . . 
+ 9 . . . . . . . . . . 
+10 . . . S . . . . . . 
+
+Ievadiet koordinātu A-J: a
+Ievadiet koordinātu (1-10): 1
+Jūs trāpijat datora kuģi!
+   A B C D E F G H I J
+ 1 X . . . . . . . . . 
+ 2 . . . . . . . . . . 
+ 3 . . . . . . . . . . 
+ 4 . . . . . . . . . . 
+ 5 . . . . . . . . . . 
+ 6 . . . . . . . . . . 
+ 7 . . . . . . . . . . 
+ 8 . . . . . . . . . . 
+ 9 . . . . . . . . . . 
+10 . . . . . . . . . . 
+
+Datora gājiens...
+Dators trāpija garām! Datora šaviena koordinātas (F, 10)
+Jūsu kuģi:
+   A B C D E F G H I J 
+ 1 . S . . . . . S . . 
+ 2 . . . . S . . . . . 
+ 3 . S . . S . . S . S 
+ 4 . S . . . . . S . S 
+ 5 . . . . . S . S . . 
+ 6 S . . . . S . . . . 
+ 7 . . . . . S . . . . 
+ 8 S S S . . S . . . . 
+ 9 . . . . . . . . . . 
+10 . . . S . O . . . . 
+
+Ievadiet koordinātu A-J: a
+Ievadiet koordinātu (1-10): 2
+Garām!
+
+   A B C D E F G H I J
+ 1 X . . . . . . . . . 
+ 2 O . . . . . . . . . 
+ 3 . . . . . . . . . . 
+ 4 . . . . . . . . . . 
+ 5 . . . . . . . . . . 
+ 6 . . . . . . . . . . 
+ 7 . . . . . . . . . . 
+ 8 . . . . . . . . . . 
+ 9 . . . . . . . . . . 
+10 . . . . . . . . . . 
+
+Datora gājiens...
+Dators trāpija garām! Datora šaviena koordinātas (A, 2)
+Jūsu kuģi:
+   A B C D E F G H I J 
+ 1 . S . . . . . S . . 
+ 2 O . . . S . . . . . 
+ 3 . S . . S . . S . S 
+ 4 . S . . . . . S . S 
+ 5 . . . . . S . S . . 
+ 6 S . . . . S . . . . 
+ 7 . . . . . S . . . . 
+ 8 S S S . . S . . . . 
+ 9 . . . . . . . . . . 
+10 . . . S . O . . . . 
+
+Ievadiet koordinātu A-J: b
+Ievadiet koordinātu (1-10): 1
+Garām!
+
+   A B C D E F G H I J
+ 1 X O . . . . . . . . 
+ 2 O . . . . . . . . . 
+ 3 . . . . . . . . . . 
+ 4 . . . . . . . . . . 
+ 5 . . . . . . . . . . 
+ 6 . . . . . . . . . . 
+ 7 . . . . . . . . . . 
+ 8 . . . . . . . . . . 
+ 9 . . . . . . . . . . 
+10 . . . . . . . . . . 
+
+Datora gājiens...
+Dators trāpija garām! Datora šaviena koordinātas (H, 6)
+Jūsu kuģi:
+   A B C D E F G H I J 
+ 1 . S . . . . . S . . 
+ 2 O . . . S . . . . . 
+ 3 . S . . S . . S . S 
+ 4 . S . . . . . S . S 
+ 5 . . . . . S . S . . 
+ 6 S . . . . S . O . . 
+ 7 . . . . . S . . . . 
+ 8 S S S . . S . . . . 
+ 9 . . . . . . . . . . 
+10 . . . S . O . . . . 
+
+Ievadiet koordinātu A-J: c
+Ievadiet koordinātu (1-10): 1
+Garām!
+
+   A B C D E F G H I J
+ 1 X O O . . . . . . . 
+ 2 O . . . . . . . . . 
+ 3 . . . . . . . . . . 
+ 4 . . . . . . . . . . 
+ 5 . . . . . . . . . . 
+ 6 . . . . . . . . . . 
+ 7 . . . . . . . . . . 
+ 8 . . . . . . . . . . 
+ 9 . . . . . . . . . . 
+10 . . . . . . . . . . 
+
+Datora gājiens...
+Dators trāpija garām! Datora šaviena koordinātas (D, 6)
+Jūsu kuģi:
+   A B C D E F G H I J 
+ 1 . S . . . . . S . . 
+ 2 O . . . S . . . . . 
+ 3 . S . . S . . S . S 
+ 4 . S . . . . . S . S 
+ 5 . . . . . S . S . . 
+ 6 S . . O . S . O . . 
+ 7 . . . . . S . . . . 
+ 8 S S S . . S . . . . 
+ 9 . . . . . . . . . . 
+10 . . . S . O . . . . 
+
+Ievadiet koordinātu A-J: c
+Ievadiet koordinātu (1-10): 2
+Jūs trāpijat datora kuģi!
+   A B C D E F G H I J
+ 1 X O O . . . . . . . 
+ 2 O . X . . . . . . . 
+ 3 . . . . . . . . . . 
+ 4 . . . . . . . . . . 
+ 5 . . . . . . . . . . 
+ 6 . . . . . . . . . . 
+ 7 . . . . . . . . . . 
+ 8 . . . . . . . . . . 
+ 9 . . . . . . . . . . 
+10 . . . . . . . . . . 
+
+Datora gājiens...
+Dators trāpija garām! Datora šaviena koordinātas (D, 7)
+Jūsu kuģi:
+   A B C D E F G H I J 
+ 1 . S . . . . . S . . 
+ 2 O . . . S . . . . . 
+ 3 . S . . S . . S . S 
+ 4 . S . . . . . S . S 
+ 5 . . . . . S . S . . 
+ 6 S . . O . S . O . . 
+ 7 . . . O . S . . . . 
+ 8 S S S . . S . . . . 
+ 9 . . . . . . . . . . 
+10 . . . S . O . . . . 
+
+Ievadiet koordinātu A-J: c
+Ievadiet koordinātu (1-10): 3
+Garām!
+
+   A B C D E F G H I J
+ 1 X O O . . . . . . . 
+ 2 O . X . . . . . . . 
+ 3 . . O . . . . . . . 
+ 4 . . . . . . . . . . 
+ 5 . . . . . . . . . . 
+ 6 . . . . . . . . . . 
+ 7 . . . . . . . . . . 
+ 8 . . . . . . . . . . 
+ 9 . . . . . . . . . . 
+10 . . . . . . . . . . 
+
+Datora gājiens...
+Dators trāpija Jūsu kuģi ar koordinātam (A, 8)
+Jūsu kuģi:
+   A B C D E F G H I J 
+ 1 . S . . . . . S . . 
+ 2 O . . . S . . . . . 
+ 3 . S . . S . . S . S 
+ 4 . S . . . . . S . S 
+ 5 . . . . . S . S . . 
+ 6 S . . O . S . O . . 
+ 7 . . . O . S . . . . 
+ 8 X S S . . S . . . . 
+ 9 . . . . . . . . . . 
+10 . . . S . O . . . . 
+
+Ievadiet koordinātu A-J: c
+Ievadiet koordinātu (1-10): 4
+Garām!
+
+   A B C D E F G H I J
+ 1 X O O . . . . . . . 
+ 2 O . X . . . . . . . 
+ 3 . . O . . . . . . . 
+ 4 . . O . . . . . . . 
+ 5 . . . . . . . . . . 
+ 6 . . . . . . . . . . 
+ 7 . . . . . . . . . . 
+ 8 . . . . . . . . . . 
+ 9 . . . . . . . . . . 
+10 . . . . . . . . . . 
+
+Datora gājiens...
+Dators trāpija garām! Datora šaviena koordinātas (D, 1)
+Jūsu kuģi:
+   A B C D E F G H I J 
+ 1 . S . O . . . S . . 
+ 2 O . . . S . . . . . 
+ 3 . S . . S . . S . S 
+ 4 . S . . . . . S . S 
+ 5 . . . . . S . S . . 
+ 6 S . . O . S . O . . 
+ 7 . . . O . S . . . . 
+ 8 X S S . . S . . . . 
+ 9 . . . . . . . . . . 
+10 . . . S . O . . . . 
+
+Ievadiet koordinātu A-J: d
+Ievadiet koordinātu (1-10): 2
+Jūs trāpijat datora kuģi!
+   A B C D E F G H I J
+ 1 X O O . . . . . . . 
+ 2 O . X X . . . . . . 
+ 3 . . O . . . . . . . 
+ 4 . . O . . . . . . . 
+ 5 . . . . . . . . . . 
+ 6 . . . . . . . . . . 
+ 7 . . . . . . . . . . 
+ 8 . . . . . . . . . . 
+ 9 . . . . . . . . . . 
+10 . . . . . . . . . . 
+
+Datora gājiens...
+Dators trāpija garām! Datora šaviena koordinātas (A, 4)
+Jūsu kuģi:
+   A B C D E F G H I J 
+ 1 . S . O . . . S . . 
+ 2 O . . . S . . . . . 
+ 3 . S . . S . . S . S 
+ 4 O S . . . . . S . S 
+ 5 . . . . . S . S . . 
+ 6 S . . O . S . O . . 
+ 7 . . . O . S . . . . 
+ 8 X S S . . S . . . . 
+ 9 . . . . . . . . . . 
+10 . . . S . O . . . . 
+
+Ievadiet koordinātu A-J: e
+Ievadiet koordinātu (1-10): 2
+Garām!
+
+   A B C D E F G H I J
+ 1 X O O . . . . . . . 
+ 2 O . X X O . . . . . 
+ 3 . . O . . . . . . . 
+ 4 . . O . . . . . . . 
+ 5 . . . . . . . . . . 
+ 6 . . . . . . . . . . 
+ 7 . . . . . . . . . . 
+ 8 . . . . . . . . . . 
+ 9 . . . . . . . . . . 
+10 . . . . . . . . . . 
+
+Datora gājiens...
+Dators trāpija garām! Datora šaviena koordinātas (A, 10)
+Jūsu kuģi:
+   A B C D E F G H I J 
+ 1 . S . O . . . S . . 
+ 2 O . . . S . . . . . 
+ 3 . S . . S . . S . S 
+ 4 O S . . . . . S . S 
+ 5 . . . . . S . S . . 
+ 6 S . . O . S . O . . 
+ 7 . . . O . S . . . . 
+ 8 X S S . . S . . . . 
+ 9 . . . . . . . . . . 
+10 O . . S . O . . . . 
+
+Ievadiet koordinātu A-J: b
+Ievadiet koordinātu (1-10): 2
+Garām!
+
+   A B C D E F G H I J
+ 1 X O O . . . . . . . 
+ 2 O O X X O . . . . . 
+ 3 . . O . . . . . . . 
+ 4 . . O . . . . . . . 
+ 5 . . . . . . . . . . 
+ 6 . . . . . . . . . . 
+ 7 . . . . . . . . . . 
+ 8 . . . . . . . . . . 
+ 9 . . . . . . . . . . 
+10 . . . . . . . . . . 
+
+Datora gājiens...
+Dators trāpija garām! Datora šaviena koordinātas (I, 2)
+Jūsu kuģi:
+   A B C D E F G H I J 
+ 1 . S . O . . . S . . 
+ 2 O . . . S . . . O . 
+ 3 . S . . S . . S . S 
+ 4 O S . . . . . S . S 
+ 5 . . . . . S . S . . 
+ 6 S . . O . S . O . . 
+ 7 . . . O . S . . . . 
+ 8 X S S . . S . . . . 
+ 9 . . . . . . . . . . 
+10 O . . S . O . . . . 
+
+Ievadiet koordinātu A-J: f
+Ievadiet koordinātu (1-10): 1
+Garām!
+
+   A B C D E F G H I J
+ 1 X O O . . O . . . . 
+ 2 O O X X O . . . . . 
+ 3 . . O . . . . . . . 
+ 4 . . O . . . . . . . 
+ 5 . . . . . . . . . . 
+ 6 . . . . . . . . . . 
+ 7 . . . . . . . . . . 
+ 8 . . . . . . . . . . 
+ 9 . . . . . . . . . . 
+10 . . . . . . . . . . 
+
+Datora gājiens...
+Dators trāpija garām! Datora šaviena koordinātas (I, 10)
+Jūsu kuģi:
+   A B C D E F G H I J 
+ 1 . S . O . . . S . . 
+ 2 O . . . S . . . O . 
+ 3 . S . . S . . S . S 
+ 4 O S . . . . . S . S 
+ 5 . . . . . S . S . . 
+ 6 S . . O . S . O . . 
+ 7 . . . O . S . . . . 
+ 8 X S S . . S . . . . 
+ 9 . . . . . . . . . . 
+10 O . . S . O . . O . 
+
+Ievadiet koordinātu A-J: f
+Ievadiet koordinātu (1-10): 2
+Garām!
+
+   A B C D E F G H I J
+ 1 X O O . . O . . . . 
+ 2 O O X X O O . . . . 
+ 3 . . O . . . . . . . 
+ 4 . . O . . . . . . . 
+ 5 . . . . . . . . . . 
+ 6 . . . . . . . . . . 
+ 7 . . . . . . . . . . 
+ 8 . . . . . . . . . . 
+ 9 . . . . . . . . . . 
+10 . . . . . . . . . . 
+
+Datora gājiens...
+Dators trāpija garām! Datora šaviena koordinātas (J, 7)
+Jūsu kuģi:
+   A B C D E F G H I J 
+ 1 . S . O . . . S . . 
+ 2 O . . . S . . . O . 
+ 3 . S . . S . . S . S 
+ 4 O S . . . . . S . S 
+ 5 . . . . . S . S . . 
+ 6 S . . O . S . O . . 
+ 7 . . . O . S . . . O 
+ 8 X S S . . S . . . . 
+ 9 . . . . . . . . . . 
+10 O . . S . O . . O . 
+
+Ievadiet koordinātu A-J: f
+Ievadiet koordinātu (1-10): 3
+Garām!
+
+   A B C D E F G H I J
+ 1 X O O . . O . . . . 
+ 2 O O X X O O . . . . 
+ 3 . . O . . O . . . . 
+ 4 . . O . . . . . . . 
+ 5 . . . . . . . . . . 
+ 6 . . . . . . . . . . 
+ 7 . . . . . . . . . . 
+ 8 . . . . . . . . . . 
+ 9 . . . . . . . . . . 
+10 . . . . . . . . . . 
+
+Datora gājiens...
+Dators trāpija garām! Datora šaviena koordinātas (I, 7)
+Jūsu kuģi:
+   A B C D E F G H I J 
+ 1 . S . O . . . S . . 
+ 2 O . . . S . . . O . 
+ 3 . S . . S . . S . S 
+ 4 O S . . . . . S . S 
+ 5 . . . . . S . S . . 
+ 6 S . . O . S . O . . 
+ 7 . . . O . S . . O O 
+ 8 X S S . . S . . . . 
+ 9 . . . . . . . . . . 
+10 O . . S . O . . O . 
+
+Ievadiet koordinātu A-J: f
+Ievadiet koordinātu (1-10): 4
+Garām!
+
+   A B C D E F G H I J
+ 1 X O O . . O . . . . 
+ 2 O O X X O O . . . . 
+ 3 . . O . . O . . . . 
+ 4 . . O . . O . . . . 
+ 5 . . . . . . . . . . 
+ 6 . . . . . . . . . . 
+ 7 . . . . . . . . . . 
+ 8 . . . . . . . . . . 
+ 9 . . . . . . . . . . 
+10 . . . . . . . . . . 
+
+Datora gājiens...
+Dators trāpija Jūsu kuģi ar koordinātam (B, 3)
+Jūsu kuģi:
+   A B C D E F G H I J 
+ 1 . S . O . . . S . . 
+ 2 O . . . S . . . O . 
+ 3 . X . . S . . S . S 
+ 4 O S . . . . . S . S 
+ 5 . . . . . S . S . . 
+ 6 S . . O . S . O . . 
+ 7 . . . O . S . . O O 
+ 8 X S S . . S . . . . 
+ 9 . . . . . . . . . . 
+10 O . . S . O . . O . 
+
+Ievadiet koordinātu A-J: f
+Ievadiet koordinātu (1-10): 5
+Garām!
+
+   A B C D E F G H I J
+ 1 X O O . . O . . . . 
+ 2 O O X X O O . . . . 
+ 3 . . O . . O . . . . 
+ 4 . . O . . O . . . . 
+ 5 . . . . . O . . . . 
+ 6 . . . . . . . . . . 
+ 7 . . . . . . . . . . 
+ 8 . . . . . . . . . . 
+ 9 . . . . . . . . . . 
+10 . . . . . . . . . . 
+
+Datora gājiens...
+Dators trāpija garām! Datora šaviena koordinātas (B, 5)
+Jūsu kuģi:
+   A B C D E F G H I J 
+ 1 . S . O . . . S . . 
+ 2 O . . . S . . . O . 
+ 3 . X . . S . . S . S 
+ 4 O S . . . . . S . S 
+ 5 . O . . . S . S . . 
+ 6 S . . O . S . O . . 
+ 7 . . . O . S . . O O 
+ 8 X S S . . S . . . . 
+ 9 . . . . . . . . . . 
+10 O . . S . O . . O . 
+
+Ievadiet koordinātu A-J: f
+Ievadiet koordinātu (1-10): 6
+Garām!
+
+   A B C D E F G H I J
+ 1 X O O . . O . . . . 
+ 2 O O X X O O . . . . 
+ 3 . . O . . O . . . . 
+ 4 . . O . . O . . . . 
+ 5 . . . . . O . . . . 
+ 6 . . . . . O . . . . 
+ 7 . . . . . . . . . . 
+ 8 . . . . . . . . . . 
+ 9 . . . . . . . . . . 
+10 . . . . . . . . . . 
+
+Datora gājiens...
+Dators trāpija Jūsu kuģi ar koordinātam (E, 2)
+Jūsu kuģi:
+   A B C D E F G H I J 
+ 1 . S . O . . . S . . 
+ 2 O . . . X . . . O . 
+ 3 . X . . S . . S . S 
+ 4 O S . . . . . S . S 
+ 5 . O . . . S . S . . 
+ 6 S . . O . S . O . . 
+ 7 . . . O . S . . O O 
+ 8 X S S . . S . . . . 
+ 9 . . . . . . . . . . 
+10 O . . S . O . . O . 
+
+Ievadiet koordinātu A-J: f
+Ievadiet koordinātu (1-10): 7
+Garām!
+
+   A B C D E F G H I J
+ 1 X O O . . O . . . . 
+ 2 O O X X O O . . . . 
+ 3 . . O . . O . . . . 
+ 4 . . O . . O . . . . 
+ 5 . . . . . O . . . . 
+ 6 . . . . . O . . . . 
+ 7 . . . . . O . . . . 
+ 8 . . . . . . . . . . 
+ 9 . . . . . . . . . . 
+10 . . . . . . . . . . 
+
+Datora gājiens...
+Dators trāpija garām! Datora šaviena koordinātas (I, 5)
+Jūsu kuģi:
+   A B C D E F G H I J 
+ 1 . S . O . . . S . . 
+ 2 O . . . X . . . O . 
+ 3 . X . . S . . S . S 
+ 4 O S . . . . . S . S 
+ 5 . O . . . S . S O . 
+ 6 S . . O . S . O . . 
+ 7 . . . O . S . . O O 
+ 8 X S S . . S . . . . 
+ 9 . . . . . . . . . . 
+10 O . . S . O . . O . 
+
+Ievadiet koordinātu A-J: f
+Ievadiet koordinātu (1-10): 9
+Jūs trāpijat datora kuģi!
+   A B C D E F G H I J
+ 1 X O O . . O . . . . 
+ 2 O O X X O O . . . . 
+ 3 . . O . . O . . . . 
+ 4 . . O . . O . . . . 
+ 5 . . . . . O . . . . 
+ 6 . . . . . O . . . . 
+ 7 . . . . . O . . . . 
+ 8 . . . . . . . . . . 
+ 9 . . . . . X . . . . 
+10 . . . . . . . . . . 
+
+Datora gājiens...
+Dators trāpija garām! Datora šaviena koordinātas (G, 1)
+Jūsu kuģi:
+   A B C D E F G H I J 
+ 1 . S . O . . O S . . 
+ 2 O . . . X . . . O . 
+ 3 . X . . S . . S . S 
+ 4 O S . . . . . S . S 
+ 5 . O . . . S . S O . 
+ 6 S . . O . S . O . . 
+ 7 . . . O . S . . O O 
+ 8 X S S . . S . . . . 
+ 9 . . . . . . . . . . 
+10 O . . S . O . . O . 
+
+Ievadiet koordinātu A-J: f
+Ievadiet koordinātu (1-10): 8
+Garām!
+
+   A B C D E F G H I J
+ 1 X O O . . O . . . . 
+ 2 O O X X O O . . . . 
+ 3 . . O . . O . . . . 
+ 4 . . O . . O . . . . 
+ 5 . . . . . O . . . . 
+ 6 . . . . . O . . . . 
+ 7 . . . . . O . . . . 
+ 8 . . . . . O . . . . 
+ 9 . . . . . X . . . . 
+10 . . . . . . . . . . 
+
+Datora gājiens...
+Dators trāpija Jūsu kuģi ar koordinātam (B, 8)
+Jūsu kuģi:
+   A B C D E F G H I J 
+ 1 . S . O . . O S . . 
+ 2 O . . . X . . . O . 
+ 3 . X . . S . . S . S 
+ 4 O S . . . . . S . S 
+ 5 . O . . . S . S O . 
+ 6 S . . O . S . O . . 
+ 7 . . . O . S . . O O 
+ 8 X X S . . S . . . . 
+ 9 . . . . . . . . . . 
+10 O . . S . O . . O . 
+
+Ievadiet koordinātu A-J: f
+Ievadiet koordinātu (1-10): 10
+Garām!
+
+   A B C D E F G H I J
+ 1 X O O . . O . . . . 
+ 2 O O X X O O . . . . 
+ 3 . . O . . O . . . . 
+ 4 . . O . . O . . . . 
+ 5 . . . . . O . . . . 
+ 6 . . . . . O . . . . 
+ 7 . . . . . O . . . . 
+ 8 . . . . . O . . . . 
+ 9 . . . . . X . . . . 
+10 . . . . . O . . . . 
+
+Datora gājiens...
+Dators trāpija Jūsu kuģi ar koordinātam (J, 4)
+Jūsu kuģi:
+   A B C D E F G H I J 
+ 1 . S . O . . O S . . 
+ 2 O . . . X . . . O . 
+ 3 . X . . S . . S . S 
+ 4 O S . . . . . S . X 
+ 5 . O . . . S . S O . 
+ 6 S . . O . S . O . . 
+ 7 . . . O . S . . O O 
+ 8 X X S . . S . . . . 
+ 9 . . . . . . . . . . 
+10 O . . S . O . . O . 
+
+Ievadiet koordinātu A-J: a
+Ievadiet koordinātu (1-10): 3
+Garām!
+
+   A B C D E F G H I J
+ 1 X O O . . O . . . . 
+ 2 O O X X O O . . . . 
+ 3 O . O . . O . . . . 
+ 4 . . O . . O . . . . 
+ 5 . . . . . O . . . . 
+ 6 . . . . . O . . . . 
+ 7 . . . . . O . . . . 
+ 8 . . . . . O . . . . 
+ 9 . . . . . X . . . . 
+10 . . . . . O . . . . 
+
+Datora gājiens...
+Dators trāpija garām! Datora šaviena koordinātas (H, 10)
+Jūsu kuģi:
+   A B C D E F G H I J 
+ 1 . S . O . . O S . . 
+ 2 O . . . X . . . O . 
+ 3 . X . . S . . S . S 
+ 4 O S . . . . . S . X 
+ 5 . O . . . S . S O . 
+ 6 S . . O . S . O . . 
+ 7 . . . O . S . . O O 
+ 8 X X S . . S . . . . 
+ 9 . . . . . . . . . . 
+10 O . . S . O . O O . 
+
+Ievadiet koordinātu A-J: a
+Ievadiet koordinātu (1-10): 5
+Garām!
+
+   A B C D E F G H I J
+ 1 X O O . . O . . . . 
+ 2 O O X X O O . . . . 
+ 3 O . O . . O . . . . 
+ 4 . . O . . O . . . . 
+ 5 O . . . . O . . . . 
+ 6 . . . . . O . . . . 
+ 7 . . . . . O . . . . 
+ 8 . . . . . O . . . . 
+ 9 . . . . . X . . . . 
+10 . . . . . O . . . . 
+
+Datora gājiens...
+Dators trāpija garām! Datora šaviena koordinātas (B, 7)
+Jūsu kuģi:
+   A B C D E F G H I J 
+ 1 . S . O . . O S . . 
+ 2 O . . . X . . . O . 
+ 3 . X . . S . . S . S 
+ 4 O S . . . . . S . X 
+ 5 . O . . . S . S O . 
+ 6 S . . O . S . O . . 
+ 7 . O . O . S . . O O 
+ 8 X X S . . S . . . . 
+ 9 . . . . . . . . . . 
+10 O . . S . O . O O . 
+
+Ievadiet koordinātu A-J: a
+Ievadiet koordinātu (1-10): 5
+Garām!
+
+   A B C D E F G H I J
+ 1 X O O . . O . . . . 
+ 2 O O X X O O . . . . 
+ 3 O . O . . O . . . . 
+ 4 . . O . . O . . . . 
+ 5 O . . . . O . . . . 
+ 6 . . . . . O . . . . 
+ 7 . . . . . O . . . . 
+ 8 . . . . . O . . . . 
+ 9 . . . . . X . . . . 
+10 . . . . . O . . . . 
+
+Datora gājiens...
+Dators trāpija garām! Datora šaviena koordinātas (C, 10)
+Jūsu kuģi:
+   A B C D E F G H I J 
+ 1 . S . O . . O S . . 
+ 2 O . . . X . . . O . 
+ 3 . X . . S . . S . S 
+ 4 O S . . . . . S . X 
+ 5 . O . . . S . S O . 
+ 6 S . . O . S . O . . 
+ 7 . O . O . S . . O O 
+ 8 X X S . . S . . . . 
+ 9 . . . . . . . . . . 
+10 O . O S . O . O O . 
+
+Ievadiet koordinātu A-J: a
+Ievadiet koordinātu (1-10): 4
+Jūs trāpijat datora kuģi!
+   A B C D E F G H I J
+ 1 X O O . . O . . . . 
+ 2 O O X X O O . . . . 
+ 3 O . O . . O . . . . 
+ 4 X . O . . O . . . . 
+ 5 O . . . . O . . . . 
+ 6 . . . . . O . . . . 
+ 7 . . . . . O . . . . 
+ 8 . . . . . O . . . . 
+ 9 . . . . . X . . . . 
+10 . . . . . O . . . . 
+
+Datora gājiens...
+Dators trāpija garām! Datora šaviena koordinātas (I, 4)
+Jūsu kuģi:
+   A B C D E F G H I J 
+ 1 . S . O . . O S . . 
+ 2 O . . . X . . . O . 
+ 3 . X . . S . . S . S 
+ 4 O S . . . . . S O X 
+ 5 . O . . . S . S O . 
+ 6 S . . O . S . O . . 
+ 7 . O . O . S . . O O 
+ 8 X X S . . S . . . . 
+ 9 . . . . . . . . . . 
+10 O . O S . O . O O . 
+
+Ievadiet koordinātu A-J: a
+Ievadiet koordinātu (1-10): 7
+Garām!
+
+   A B C D E F G H I J
+ 1 X O O . . O . . . . 
+ 2 O O X X O O . . . . 
+ 3 O . O . . O . . . . 
+ 4 X . O . . O . . . . 
+ 5 O . . . . O . . . . 
+ 6 . . . . . O . . . . 
+ 7 O . . . . O . . . . 
+ 8 . . . . . O . . . . 
+ 9 . . . . . X . . . . 
+10 . . . . . O . . . . 
+
+Datora gājiens...
+Dators trāpija garām! Datora šaviena koordinātas (D, 3)
+Jūsu kuģi:
+   A B C D E F G H I J 
+ 1 . S . O . . O S . . 
+ 2 O . . . X . . . O . 
+ 3 . X . O S . . S . S 
+ 4 O S . . . . . S O X 
+ 5 . O . . . S . S O . 
+ 6 S . . O . S . O . . 
+ 7 . O . O . S . . O O 
+ 8 X X S . . S . . . . 
+ 9 . . . . . . . . . . 
+10 O . O S . O . O O . 
+
+Ievadiet koordinātu A-J: a
+Ievadiet koordinātu (1-10): 6
+Garām!
+
+   A B C D E F G H I J
+ 1 X O O . . O . . . . 
+ 2 O O X X O O . . . . 
+ 3 O . O . . O . . . . 
+ 4 X . O . . O . . . . 
+ 5 O . . . . O . . . . 
+ 6 O . . . . O . . . . 
+ 7 O . . . . O . . . . 
+ 8 . . . . . O . . . . 
+ 9 . . . . . X . . . . 
+10 . . . . . O . . . . 
+
+Datora gājiens...
+Dators trāpija garām! Datora šaviena koordinātas (B, 6)
+Jūsu kuģi:
+   A B C D E F G H I J 
+ 1 . S . O . . O S . . 
+ 2 O . . . X . . . O . 
+ 3 . X . O S . . S . S 
+ 4 O S . . . . . S O X 
+ 5 . O . . . S . S O . 
+ 6 S O . O . S . O . . 
+ 7 . O . O . S . . O O 
+ 8 X X S . . S . . . . 
+ 9 . . . . . . . . . . 
+10 O . O S . O . O O . 
+
+Ievadiet koordinātu A-J: a
+Ievadiet koordinātu (1-10): 8
+Garām!
+
+   A B C D E F G H I J
+ 1 X O O . . O . . . . 
+ 2 O O X X O O . . . . 
+ 3 O . O . . O . . . . 
+ 4 X . O . . O . . . . 
+ 5 O . . . . O . . . . 
+ 6 O . . . . O . . . . 
+ 7 O . . . . O . . . . 
+ 8 O . . . . O . . . . 
+ 9 . . . . . X . . . . 
+10 . . . . . O . . . . 
+
+Datora gājiens...
+Dators trāpija garām! Datora šaviena koordinātas (E, 9)
+Jūsu kuģi:
+   A B C D E F G H I J 
+ 1 . S . O . . O S . . 
+ 2 O . . . X . . . O . 
+ 3 . X . O S . . S . S 
+ 4 O S . . . . . S O X 
+ 5 . O . . . S . S O . 
+ 6 S O . O . S . O . . 
+ 7 . O . O . S . . O O 
+ 8 X X S . . S . . . . 
+ 9 . . . . O . . . . . 
+10 O . O S . O . O O . 
+
+Ievadiet koordinātu A-J: a
+Ievadiet koordinātu (1-10): 0
+Nekorekta ievāde. Ievadiet koordinātu (1-10): 
+Ievadiet koordinātu (1-10): a
+Nekorekta ievāde. Ievadiet koordinātu (1-10):
+Ievadiet koordinātu (1-10): 9
+Jūs trāpijat datora kuģi!
+   A B C D E F G H I J
+ 1 X O O . . O . . . . 
+ 2 O O X X O O . . . . 
+ 3 O . O . . O . . . . 
+ 4 X . O . . O . . . . 
+ 5 O . . . . O . . . . 
+ 6 O . . . . O . . . . 
+ 7 O . . . . O . . . . 
+ 8 O . . . . O . . . . 
+ 9 X . . . . X . . . . 
+10 . . . . . O . . . . 
+
+Datora gājiens...
+Dators trāpija garām! Datora šaviena koordinātas (D, 5)
+Jūsu kuģi:
+   A B C D E F G H I J 
+ 1 . S . O . . O S . . 
+ 2 O . . . X . . . O . 
+ 3 . X . O S . . S . S 
+ 4 O S . . . . . S O X 
+ 5 . O . O . S . S O . 
+ 6 S O . O . S . O . . 
+ 7 . O . O . S . . O O 
+ 8 X X S . . S . . . . 
+ 9 . . . . O . . . . . 
+10 O . O S . O . O O . 
+
+Ievadiet koordinātu A-J: a
+Ievadiet koordinātu (1-10): 10
+Garām!
+
+   A B C D E F G H I J
+ 1 X O O . . O . . . . 
+ 2 O O X X O O . . . . 
+ 3 O . O . . O . . . . 
+ 4 X . O . . O . . . . 
+ 5 O . . . . O . . . . 
+ 6 O . . . . O . . . . 
+ 7 O . . . . O . . . . 
+ 8 O . . . . O . . . . 
+ 9 X . . . . X . . . . 
+10 O . . . . O . . . . 
+
+Datora gājiens...
+Dators trāpija garām! Datora šaviena koordinātas (A, 3)
+Jūsu kuģi:
+   A B C D E F G H I J 
+ 1 . S . O . . O S . . 
+ 2 O . . . X . . . O . 
+ 3 O X . O S . . S . S 
+ 4 O S . . . . . S O X 
+ 5 . O . O . S . S O . 
+ 6 S O . O . S . O . . 
+ 7 . O . O . S . . O O 
+ 8 X X S . . S . . . . 
+ 9 . . . . O . . . . . 
+10 O . O S . O . O O . 
+
+Ievadiet koordinātu A-J: b
+Ievadiet koordinātu (1-10): 9
+Garām!
+
+   A B C D E F G H I J
+ 1 X O O . . O . . . . 
+ 2 O O X X O O . . . . 
+ 3 O . O . . O . . . . 
+ 4 X . O . . O . . . . 
+ 5 O . . . . O . . . . 
+ 6 O . . . . O . . . . 
+ 7 O . . . . O . . . . 
+ 8 O . . . . O . . . . 
+ 9 X O . . . X . . . . 
+10 O . . . . O . . . . 
+
+Datora gājiens...
+Dators trāpija garām! Datora šaviena koordinātas (E, 4)
+Jūsu kuģi:
+   A B C D E F G H I J 
+ 1 . S . O . . O S . . 
+ 2 O . . . X . . . O . 
+ 3 O X . O S . . S . S 
+ 4 O S . . O . . S O X 
+ 5 . O . O . S . S O . 
+ 6 S O . O . S . O . . 
+ 7 . O . O . S . . O O 
+ 8 X X S . . S . . . . 
+ 9 . . . . O . . . . . 
+10 O . O S . O . O O . 
+
+Ievadiet koordinātu A-J: c
+Ievadiet koordinātu (1-10): 0
+Nekorekta ievāde. Ievadiet koordinātu (1-10): 
+Ievadiet koordinātu (1-10): 9
+Garām!
+
+   A B C D E F G H I J
+ 1 X O O . . O . . . . 
+ 2 O O X X O O . . . . 
+ 3 O . O . . O . . . . 
+ 4 X . O . . O . . . . 
+ 5 O . . . . O . . . . 
+ 6 O . . . . O . . . . 
+ 7 O . . . . O . . . . 
+ 8 O . . . . O . . . . 
+ 9 X O O . . X . . . . 
+10 O . . . . O . . . . 
+
+Datora gājiens...
+Dators trāpija garām! Datora šaviena koordinātas (E, 8)
+Jūsu kuģi:
+   A B C D E F G H I J 
+ 1 . S . O . . O S . . 
+ 2 O . . . X . . . O . 
+ 3 O X . O S . . S . S 
+ 4 O S . . O . . S O X 
+ 5 . O . O . S . S O . 
+ 6 S O . O . S . O . . 
+ 7 . O . O . S . . O O 
+ 8 X X S . O S . . . . 
+ 9 . . . . O . . . . . 
+10 O . O S . O . O O . 
+
+Ievadiet koordinātu A-J: d
+Ievadiet koordinātu (1-10): 9
+Jūs trāpijat datora kuģi!
+   A B C D E F G H I J
+ 1 X O O . . O . . . . 
+ 2 O O X X O O . . . . 
+ 3 O . O . . O . . . . 
+ 4 X . O . . O . . . . 
+ 5 O . . . . O . . . . 
+ 6 O . . . . O . . . . 
+ 7 O . . . . O . . . . 
+ 8 O . . . . O . . . . 
+ 9 X O O X . X . . . . 
+10 O . . . . O . . . . 
+
+Datora gājiens...
+Dators trāpija garām! Datora šaviena koordinātas (J, 6)
+Jūsu kuģi:
+   A B C D E F G H I J 
+ 1 . S . O . . O S . . 
+ 2 O . . . X . . . O . 
+ 3 O X . O S . . S . S 
+ 4 O S . . O . . S O X 
+ 5 . O . O . S . S O . 
+ 6 S O . O . S . O . O 
+ 7 . O . O . S . . O O 
+ 8 X X S . O S . . . . 
+ 9 . . . . O . . . . . 
+10 O . O S . O . O O . 
+
+Ievadiet koordinātu A-J: e
+Ievadiet koordinātu (1-10): 9
+Jūs trāpijat datora kuģi!
+   A B C D E F G H I J
+ 1 X O O . . O . . . . 
+ 2 O O X X O O . . . . 
+ 3 O . O . . O . . . . 
+ 4 X . O . . O . . . . 
+ 5 O . . . . O . . . . 
+ 6 O . . . . O . . . . 
+ 7 O . . . . O . . . . 
+ 8 O . . . . O . . . . 
+ 9 X O O X X X . . . . 
+10 O . . . . O . . . . 
+
+Datora gājiens...
+Dators trāpija garām! Datora šaviena koordinātas (B, 10)
+Jūsu kuģi:
+   A B C D E F G H I J 
+ 1 . S . O . . O S . . 
+ 2 O . . . X . . . O . 
+ 3 O X . O S . . S . S 
+ 4 O S . . O . . S O X 
+ 5 . O . O . S . S O . 
+ 6 S O . O . S . O . O 
+ 7 . O . O . S . . O O 
+ 8 X X S . O S . . . . 
+ 9 . . . . O . . . . . 
+10 O O O S . O . O O . 
+
+Ievadiet koordinātu A-J: g
+Ievadiet koordinātu (1-10): 9
+Garām!
+
+   A B C D E F G H I J
+ 1 X O O . . O . . . . 
+ 2 O O X X O O . . . . 
+ 3 O . O . . O . . . . 
+ 4 X . O . . O . . . . 
+ 5 O . . . . O . . . . 
+ 6 O . . . . O . . . . 
+ 7 O . . . . O . . . . 
+ 8 O . . . . O . . . . 
+ 9 X O O X X X O . . . 
+10 O . . . . O . . . . 
+
+Datora gājiens...
+Dators trāpija garām! Datora šaviena koordinātas (C, 2)
+Jūsu kuģi:
+   A B C D E F G H I J 
+ 1 . S . O . . O S . . 
+ 2 O . O . X . . . O . 
+ 3 O X . O S . . S . S 
+ 4 O S . . O . . S O X 
+ 5 . O . O . S . S O . 
+ 6 S O . O . S . O . O 
+ 7 . O . O . S . . O O 
+ 8 X X S . O S . . . . 
+ 9 . . . . O . . . . . 
+10 O O O S . O . O O . 
+
+Ievadiet koordinātu A-J: h
+Ievadiet koordinātu (1-10): 9
+Garām!
+
+   A B C D E F G H I J
+ 1 X O O . . O . . . . 
+ 2 O O X X O O . . . . 
+ 3 O . O . . O . . . . 
+ 4 X . O . . O . . . . 
+ 5 O . . . . O . . . . 
+ 6 O . . . . O . . . . 
+ 7 O . . . . O . . . . 
+ 8 O . . . . O . . . . 
+ 9 X O O X X X O O . . 
+10 O . . . . O . . . . 
+
+Datora gājiens...
+Dators trāpija garām! Datora šaviena koordinātas (E, 7)
+Jūsu kuģi:
+   A B C D E F G H I J 
+ 1 . S . O . . O S . . 
+ 2 O . O . X . . . O . 
+ 3 O X . O S . . S . S 
+ 4 O S . . O . . S O X 
+ 5 . O . O . S . S O . 
+ 6 S O . O . S . O . O 
+ 7 . O . O O S . . O O 
+ 8 X X S . O S . . . . 
+ 9 . . . . O . . . . . 
+10 O O O S . O . O O . 
+
+Ievadiet koordinātu A-J: i
+Ievadiet koordinātu (1-10): 9
+Garām!
+
+   A B C D E F G H I J
+ 1 X O O . . O . . . . 
+ 2 O O X X O O . . . . 
+ 3 O . O . . O . . . . 
+ 4 X . O . . O . . . . 
+ 5 O . . . . O . . . . 
+ 6 O . . . . O . . . . 
+ 7 O . . . . O . . . . 
+ 8 O . . . . O . . . . 
+ 9 X O O X X X O O O . 
+10 O . . . . O . . . . 
+
+Datora gājiens...
+Dators trāpija garām! Datora šaviena koordinātas (C, 9)
+Jūsu kuģi:
+   A B C D E F G H I J 
+ 1 . S . O . . O S . . 
+ 2 O . O . X . . . O . 
+ 3 O X . O S . . S . S 
+ 4 O S . . O . . S O X 
+ 5 . O . O . S . S O . 
+ 6 S O . O . S . O . O 
+ 7 . O . O O S . . O O 
+ 8 X X S . O S . . . . 
+ 9 . . O . O . . . . . 
+10 O O O S . O . O O . 
+
+Ievadiet koordinātu A-J: j
+Ievadiet koordinātu (1-10): 9
+Garām!
+
+   A B C D E F G H I J
+ 1 X O O . . O . . . . 
+ 2 O O X X O O . . . . 
+ 3 O . O . . O . . . . 
+ 4 X . O . . O . . . . 
+ 5 O . . . . O . . . . 
+ 6 O . . . . O . . . . 
+ 7 O . . . . O . . . . 
+ 8 O . . . . O . . . . 
+ 9 X O O X X X O O O O 
+10 O . . . . O . . . . 
+
+Datora gājiens...
+Dators trāpija garām! Datora šaviena koordinātas (G, 4)
+Jūsu kuģi:
+   A B C D E F G H I J 
+ 1 . S . O . . O S . . 
+ 2 O . O . X . . . O . 
+ 3 O X . O S . . S . S 
+ 4 O S . . O . O S O X 
+ 5 . O . O . S . S O . 
+ 6 S O . O . S . O . O 
+ 7 . O . O O S . . O O 
+ 8 X X S . O S . . . . 
+ 9 . . O . O . . . . . 
+10 O O O S . O . O O . 
+
+Ievadiet koordinātu A-J: j
+Ievadiet koordinātu (1-10): 1
+Garām!
+
+   A B C D E F G H I J
+ 1 X O O . . O . . . O 
+ 2 O O X X O O . . . . 
+ 3 O . O . . O . . . . 
+ 4 X . O . . O . . . . 
+ 5 O . . . . O . . . . 
+ 6 O . . . . O . . . . 
+ 7 O . . . . O . . . . 
+ 8 O . . . . O . . . . 
+ 9 X O O X X X O O O O 
+10 O . . . . O . . . . 
+
+Datora gājiens...
+Dators trāpija garām! Datora šaviena koordinātas (C, 3)
+Jūsu kuģi:
+   A B C D E F G H I J 
+ 1 . S . O . . O S . . 
+ 2 O . O . X . . . O . 
+ 3 O X O O S . . S . S 
+ 4 O S . . O . O S O X 
+ 5 . O . O . S . S O . 
+ 6 S O . O . S . O . O 
+ 7 . O . O O S . . O O 
+ 8 X X S . O S . . . . 
+ 9 . . O . O . . . . . 
+10 O O O S . O . O O . 
+
+Ievadiet koordinātu A-J: j
+Ievadiet koordinātu (1-10): 2
+Jūs trāpijat datora kuģi!
+   A B C D E F G H I J
+ 1 X O O . . O . . . O 
+ 2 O O X X O O . . . X 
+ 3 O . O . . O . . . . 
+ 4 X . O . . O . . . . 
+ 5 O . . . . O . . . . 
+ 6 O . . . . O . . . . 
+ 7 O . . . . O . . . . 
+ 8 O . . . . O . . . . 
+ 9 X O O X X X O O O O 
+10 O . . . . O . . . . 
+
+Datora gājiens...
+Dators trāpija garām! Datora šaviena koordinātas (A, 7)
+Jūsu kuģi:
+   A B C D E F G H I J 
+ 1 . S . O . . O S . . 
+ 2 O . O . X . . . O . 
+ 3 O X O O S . . S . S 
+ 4 O S . . O . O S O X 
+ 5 . O . O . S . S O . 
+ 6 S O . O . S . O . O 
+ 7 O O . O O S . . O O 
+ 8 X X S . O S . . . . 
+ 9 . . O . O . . . . . 
+10 O O O S . O . O O . 
+
+Ievadiet koordinātu A-J: j
+Ievadiet koordinātu (1-10): 3
+Jūs trāpijat datora kuģi!
+   A B C D E F G H I J
+ 1 X O O . . O . . . O 
+ 2 O O X X O O . . . X 
+ 3 O . O . . O . . . X 
+ 4 X . O . . O . . . . 
+ 5 O . . . . O . . . . 
+ 6 O . . . . O . . . . 
+ 7 O . . . . O . . . . 
+ 8 O . . . . O . . . . 
+ 9 X O O X X X O O O O 
+10 O . . . . O . . . . 
+
+Datora gājiens...
+Dators trāpija garām! Datora šaviena koordinātas (H, 8)
+Jūsu kuģi:
+   A B C D E F G H I J 
+ 1 . S . O . . O S . . 
+ 2 O . O . X . . . O . 
+ 3 O X O O S . . S . S 
+ 4 O S . . O . O S O X 
+ 5 . O . O . S . S O . 
+ 6 S O . O . S . O . O 
+ 7 O O . O O S . . O O 
+ 8 X X S . O S . O . . 
+ 9 . . O . O . . . . . 
+10 O O O S . O . O O . 
+
+Ievadiet koordinātu A-J: j
+Ievadiet koordinātu (1-10): 4
+Garām!
+
+   A B C D E F G H I J
+ 1 X O O . . O . . . O 
+ 2 O O X X O O . . . X 
+ 3 O . O . . O . . . X 
+ 4 X . O . . O . . . O 
+ 5 O . . . . O . . . . 
+ 6 O . . . . O . . . . 
+ 7 O . . . . O . . . . 
+ 8 O . . . . O . . . . 
+ 9 X O O X X X O O O O 
+10 O . . . . O . . . . 
+
+Datora gājiens...
+Dators trāpija garām! Datora šaviena koordinātas (E, 6)
+Jūsu kuģi:
+   A B C D E F G H I J 
+ 1 . S . O . . O S . . 
+ 2 O . O . X . . . O . 
+ 3 O X O O S . . S . S 
+ 4 O S . . O . O S O X 
+ 5 . O . O . S . S O . 
+ 6 S O . O O S . O . O 
+ 7 O O . O O S . . O O 
+ 8 X X S . O S . O . . 
+ 9 . . O . O . . . . . 
+10 O O O S . O . O O . 
+
+Ievadiet koordinātu A-J: j
+Ievadiet koordinātu (1-10): 5
+Garām!
+
+   A B C D E F G H I J
+ 1 X O O . . O . . . O 
+ 2 O O X X O O . . . X 
+ 3 O . O . . O . . . X 
+ 4 X . O . . O . . . O 
+ 5 O . . . . O . . . O 
+ 6 O . . . . O . . . . 
+ 7 O . . . . O . . . . 
+ 8 O . . . . O . . . . 
+ 9 X O O X X X O O O O 
+10 O . . . . O . . . . 
+
+Datora gājiens...
+Dators trāpija garām! Datora šaviena koordinātas (C, 7)
+Jūsu kuģi:
+   A B C D E F G H I J 
+ 1 . S . O . . O S . . 
+ 2 O . O . X . . . O . 
+ 3 O X O O S . . S . S 
+ 4 O S . . O . O S O X 
+ 5 . O . O . S . S O . 
+ 6 S O . O O S . O . O 
+ 7 O O O O O S . . O O 
+ 8 X X S . O S . O . . 
+ 9 . . O . O . . . . . 
+10 O O O S . O . O O . 
+
+Ievadiet koordinātu A-J: j
+Ievadiet koordinātu (1-10): 6
+Garām!
+
+   A B C D E F G H I J
+ 1 X O O . . O . . . O 
+ 2 O O X X O O . . . X 
+ 3 O . O . . O . . . X 
+ 4 X . O . . O . . . O 
+ 5 O . . . . O . . . O 
+ 6 O . . . . O . . . O 
+ 7 O . . . . O . . . . 
+ 8 O . . . . O . . . . 
+ 9 X O O X X X O O O O 
+10 O . . . . O . . . . 
+
+Datora gājiens...
+Dators trāpija garām! Datora šaviena koordinātas (G, 5)
+Jūsu kuģi:
+   A B C D E F G H I J 
+ 1 . S . O . . O S . . 
+ 2 O . O . X . . . O . 
+ 3 O X O O S . . S . S 
+ 4 O S . . O . O S O X 
+ 5 . O . O . S O S O . 
+ 6 S O . O O S . O . O 
+ 7 O O O O O S . . O O 
+ 8 X X S . O S . O . . 
+ 9 . . O . O . . . . . 
+10 O O O S . O . O O . 
+
+Ievadiet koordinātu A-J: j
+Ievadiet koordinātu (1-10): 7
+Garām!
+
+   A B C D E F G H I J
+ 1 X O O . . O . . . O 
+ 2 O O X X O O . . . X 
+ 3 O . O . . O . . . X 
+ 4 X . O . . O . . . O 
+ 5 O . . . . O . . . O 
+ 6 O . . . . O . . . O 
+ 7 O . . . . O . . . O 
+ 8 O . . . . O . . . . 
+ 9 X O O X X X O O O O 
+10 O . . . . O . . . . 
+
+Datora gājiens...
+Dators trāpija garām! Datora šaviena koordinātas (C, 1)
+Jūsu kuģi:
+   A B C D E F G H I J 
+ 1 . S O O . . O S . . 
+ 2 O . O . X . . . O . 
+ 3 O X O O S . . S . S 
+ 4 O S . . O . O S O X 
+ 5 . O . O . S O S O . 
+ 6 S O . O O S . O . O 
+ 7 O O O O O S . . O O 
+ 8 X X S . O S . O . . 
+ 9 . . O . O . . . . . 
+10 O O O S . O . O O . 
+
+Ievadiet koordinātu A-J: j
+Ievadiet koordinātu (1-10): 8
+Garām!
+
+   A B C D E F G H I J
+ 1 X O O . . O . . . O 
+ 2 O O X X O O . . . X 
+ 3 O . O . . O . . . X 
+ 4 X . O . . O . . . O 
+ 5 O . . . . O . . . O 
+ 6 O . . . . O . . . O 
+ 7 O . . . . O . . . O 
+ 8 O . . . . O . . . O 
+ 9 X O O X X X O O O O 
+10 O . . . . O . . . . 
+
+Datora gājiens...
+Dators trāpija garām! Datora šaviena koordinātas (C, 4)
+Jūsu kuģi:
+   A B C D E F G H I J 
+ 1 . S O O . . O S . . 
+ 2 O . O . X . . . O . 
+ 3 O X O O S . . S . S 
+ 4 O S O . O . O S O X 
+ 5 . O . O . S O S O . 
+ 6 S O . O O S . O . O 
+ 7 O O O O O S . . O O 
+ 8 X X S . O S . O . . 
+ 9 . . O . O . . . . . 
+10 O O O S . O . O O . 
+
+Ievadiet koordinātu A-J: j
+Ievadiet koordinātu (1-10): 10
+Jūs trāpijat datora kuģi!
+   A B C D E F G H I J
+ 1 X O O . . O . . . O 
+ 2 O O X X O O . . . X 
+ 3 O . O . . O . . . X 
+ 4 X . O . . O . . . O 
+ 5 O . . . . O . . . O 
+ 6 O . . . . O . . . O 
+ 7 O . . . . O . . . O 
+ 8 O . . . . O . . . O 
+ 9 X O O X X X O O O O 
+10 O . . . . O . . . X 
+
+Datora gājiens...
+Dators trāpija garām! Datora šaviena koordinātas (F, 3)
+Jūsu kuģi:
+   A B C D E F G H I J 
+ 1 . S O O . . O S . . 
+ 2 O . O . X . . . O . 
+ 3 O X O O S O . S . S 
+ 4 O S O . O . O S O X 
+ 5 . O . O . S O S O . 
+ 6 S O . O O S . O . O 
+ 7 O O O O O S . . O O 
+ 8 X X S . O S . O . . 
+ 9 . . O . O . . . . . 
+10 O O O S . O . O O . 
+
+Ievadiet koordinātu A-J: i
+Ievadiet koordinātu (1-10): 10
+Garām!
+
+   A B C D E F G H I J
+ 1 X O O . . O . . . O 
+ 2 O O X X O O . . . X 
+ 3 O . O . . O . . . X 
+ 4 X . O . . O . . . O 
+ 5 O . . . . O . . . O 
+ 6 O . . . . O . . . O 
+ 7 O . . . . O . . . O 
+ 8 O . . . . O . . . O 
+ 9 X O O X X X O O O O 
+10 O . . . . O . . O X 
+
+Datora gājiens...
+Dators trāpija Jūsu kuģi ar koordinātam (F, 8)
+Jūsu kuģi:
+   A B C D E F G H I J 
+ 1 . S O O . . O S . . 
+ 2 O . O . X . . . O . 
+ 3 O X O O S O . S . S 
+ 4 O S O . O . O S O X 
+ 5 . O . O . S O S O . 
+ 6 S O . O O S . O . O 
+ 7 O O O O O S . . O O 
+ 8 X X S . O X . O . . 
+ 9 . . O . O . . . . . 
+10 O O O S . O . O O . 
+
+Ievadiet koordinātu A-J: h
+Ievadiet koordinātu (1-10): 10
+Garām!
+
+   A B C D E F G H I J
+ 1 X O O . . O . . . O 
+ 2 O O X X O O . . . X 
+ 3 O . O . . O . . . X 
+ 4 X . O . . O . . . O 
+ 5 O . . . . O . . . O 
+ 6 O . . . . O . . . O 
+ 7 O . . . . O . . . O 
+ 8 O . . . . O . . . O 
+ 9 X O O X X X O O O O 
+10 O . . . . O . O O X 
+
+Datora gājiens...
+Dators trāpija Jūsu kuģi ar koordinātam (F, 7)
+Jūsu kuģi:
+   A B C D E F G H I J 
+ 1 . S O O . . O S . . 
+ 2 O . O . X . . . O . 
+ 3 O X O O S O . S . S 
+ 4 O S O . O . O S O X 
+ 5 . O . O . S O S O . 
+ 6 S O . O O S . O . O 
+ 7 O O O O O X . . O O 
+ 8 X X S . O X . O . . 
+ 9 . . O . O . . . . . 
+10 O O O S . O . O O . 
+
+Ievadiet koordinātu A-J: i
+Ievadiet koordinātu (1-10): 8
+Jūs trāpijat datora kuģi!
+   A B C D E F G H I J
+ 1 X O O . . O . . . O 
+ 2 O O X X O O . . . X 
+ 3 O . O . . O . . . X 
+ 4 X . O . . O . . . O 
+ 5 O . . . . O . . . O 
+ 6 O . . . . O . . . O 
+ 7 O . . . . O . . . O 
+ 8 O . . . . O . . X O 
+ 9 X O O X X X O O O O 
+10 O . . . . O . O O X 
+
+Datora gājiens...
+Dators trāpija Jūsu kuģi ar koordinātam (J, 3)
+Jūsu kuģi:
+   A B C D E F G H I J 
+ 1 . S O O . . O S . . 
+ 2 O . O . X . . . O . 
+ 3 O X O O S O . S . X 
+ 4 O S O . O . O S O X 
+ 5 . O . O . S O S O . 
+ 6 S O . O O S . O . O 
+ 7 O O O O O X . . O O 
+ 8 X X S . O X . O . . 
+ 9 . . O . O . . . . . 
+10 O O O S . O . O O . 
+
+Ievadiet koordinātu A-J: h
+Ievadiet koordinātu (1-10): 7
+Garām!
+
+   A B C D E F G H I J
+ 1 X O O . . O . . . O 
+ 2 O O X X O O . . . X 
+ 3 O . O . . O . . . X 
+ 4 X . O . . O . . . O 
+ 5 O . . . . O . . . O 
+ 6 O . . . . O . . . O 
+ 7 O . . . . O . O . O 
+ 8 O . . . . O . . X O 
+ 9 X O O X X X O O O O 
+10 O . . . . O . O O X 
+
+Datora gājiens...
+Dators trāpija garām! Datora šaviena koordinātas (H, 9)
+Jūsu kuģi:
+   A B C D E F G H I J 
+ 1 . S O O . . O S . . 
+ 2 O . O . X . . . O . 
+ 3 O X O O S O . S . X 
+ 4 O S O . O . O S O X 
+ 5 . O . O . S O S O . 
+ 6 S O . O O S . O . O 
+ 7 O O O O O X . . O O 
+ 8 X X S . O X . O . . 
+ 9 . . O . O . . O . . 
+10 O O O S . O . O O . 
+
+Ievadiet koordinātu A-J: h
+Ievadiet koordinātu (1-10): 6
+Garām!
+
+   A B C D E F G H I J
+ 1 X O O . . O . . . O 
+ 2 O O X X O O . . . X 
+ 3 O . O . . O . . . X 
+ 4 X . O . . O . . . O 
+ 5 O . . . . O . . . O 
+ 6 O . . . . O . O . O 
+ 7 O . . . . O . O . O 
+ 8 O . . . . O . . X O 
+ 9 X O O X X X O O O O 
+10 O . . . . O . O O X 
+
+Datora gājiens...
+Dators trāpija garām! Datora šaviena koordinātas (D, 4)
+Jūsu kuģi:
+   A B C D E F G H I J 
+ 1 . S O O . . O S . . 
+ 2 O . O . X . . . O . 
+ 3 O X O O S O . S . X 
+ 4 O S O O O . O S O X 
+ 5 . O . O . S O S O . 
+ 6 S O . O O S . O . O 
+ 7 O O O O O X . . O O 
+ 8 X X S . O X . O . . 
+ 9 . . O . O . . O . . 
+10 O O O S . O . O O . 
+
+Ievadiet koordinātu A-J: h
+Ievadiet koordinātu (1-10): 4
+Garām!
+
+   A B C D E F G H I J
+ 1 X O O . . O . . . O 
+ 2 O O X X O O . . . X 
+ 3 O . O . . O . . . X 
+ 4 X . O . . O . O . O 
+ 5 O . . . . O . . . O 
+ 6 O . . . . O . O . O 
+ 7 O . . . . O . O . O 
+ 8 O . . . . O . . X O 
+ 9 X O O X X X O O O O 
+10 O . . . . O . O O X 
+
+Datora gājiens...
+Dators trāpija garām! Datora šaviena koordinātas (H, 7)
+Jūsu kuģi:
+   A B C D E F G H I J 
+ 1 . S O O . . O S . . 
+ 2 O . O . X . . . O . 
+ 3 O X O O S O . S . X 
+ 4 O S O O O . O S O X 
+ 5 . O . O . S O S O . 
+ 6 S O . O O S . O . O 
+ 7 O O O O O X . O O O 
+ 8 X X S . O X . O . . 
+ 9 . . O . O . . O . . 
+10 O O O S . O . O O . 
+
+Ievadiet koordinātu A-J: h
+Ievadiet koordinātu (1-10): 3
+Garām!
+
+   A B C D E F G H I J
+ 1 X O O . . O . . . O 
+ 2 O O X X O O . . . X 
+ 3 O . O . . O . O . X 
+ 4 X . O . . O . O . O 
+ 5 O . . . . O . . . O 
+ 6 O . . . . O . O . O 
+ 7 O . . . . O . O . O 
+ 8 O . . . . O . . X O 
+ 9 X O O X X X O O O O 
+10 O . . . . O . O O X 
+
+Datora gājiens...
+Dators trāpija garām! Datora šaviena koordinātas (G, 3)
+Jūsu kuģi:
+   A B C D E F G H I J 
+ 1 . S O O . . O S . . 
+ 2 O . O . X . . . O . 
+ 3 O X O O S O O S . X 
+ 4 O S O O O . O S O X 
+ 5 . O . O . S O S O . 
+ 6 S O . O O S . O . O 
+ 7 O O O O O X . O O O 
+ 8 X X S . O X . O . . 
+ 9 . . O . O . . O . . 
+10 O O O S . O . O O . 
+
+Ievadiet koordinātu A-J: h
+Ievadiet koordinātu (1-10): 2
+Garām!
+
+   A B C D E F G H I J
+ 1 X O O . . O . . . O 
+ 2 O O X X O O . O . X 
+ 3 O . O . . O . O . X 
+ 4 X . O . . O . O . O 
+ 5 O . . . . O . . . O 
+ 6 O . . . . O . O . O 
+ 7 O . . . . O . O . O 
+ 8 O . . . . O . . X O 
+ 9 X O O X X X O O O O 
+10 O . . . . O . O O X 
+
+Datora gājiens...
+Dators trāpija garām! Datora šaviena koordinātas (E, 10)
+Jūsu kuģi:
+   A B C D E F G H I J 
+ 1 . S O O . . O S . . 
+ 2 O . O . X . . . O . 
+ 3 O X O O S O O S . X 
+ 4 O S O O O . O S O X 
+ 5 . O . O . S O S O . 
+ 6 S O . O O S . O . O 
+ 7 O O O O O X . O O O 
+ 8 X X S . O X . O . . 
+ 9 . . O . O . . O . . 
+10 O O O S O O . O O . 
+
+Ievadiet koordinātu A-J: h
+Ievadiet koordinātu (1-10): 1
+Garām!
+
+   A B C D E F G H I J
+ 1 X O O . . O . O . O 
+ 2 O O X X O O . O . X 
+ 3 O . O . . O . O . X 
+ 4 X . O . . O . O . O 
+ 5 O . . . . O . . . O 
+ 6 O . . . . O . O . O 
+ 7 O . . . . O . O . O 
+ 8 O . . . . O . . X O 
+ 9 X O O X X X O O O O 
+10 O . . . . O . O O X 
+
+Datora gājiens...
+Dators trāpija Jūsu kuģi ar koordinātam (H, 4)
+Jūsu kuģi:
+   A B C D E F G H I J 
+ 1 . S O O . . O S . . 
+ 2 O . O . X . . . O . 
+ 3 O X O O S O O S . X 
+ 4 O S O O O . O X O X 
+ 5 . O . O . S O S O . 
+ 6 S O . O O S . O . O 
+ 7 O O O O O X . O O O 
+ 8 X X S . O X . O . . 
+ 9 . . O . O . . O . . 
+10 O O O S O O . O O . 
+
+Ievadiet koordinātu A-J: g
+Ievadiet koordinātu (1-10): 1
+Garām!
+
+   A B C D E F G H I J
+ 1 X O O . . O O O . O 
+ 2 O O X X O O . O . X 
+ 3 O . O . . O . O . X 
+ 4 X . O . . O . O . O 
+ 5 O . . . . O . . . O 
+ 6 O . . . . O . O . O 
+ 7 O . . . . O . O . O 
+ 8 O . . . . O . . X O 
+ 9 X O O X X X O O O O 
+10 O . . . . O . O O X 
+
+Datora gājiens...
+Dators trāpija garām! Datora šaviena koordinātas (I, 3)
+Jūsu kuģi:
+   A B C D E F G H I J 
+ 1 . S O O . . O S . . 
+ 2 O . O . X . . . O . 
+ 3 O X O O S O O S O X 
+ 4 O S O O O . O X O X 
+ 5 . O . O . S O S O . 
+ 6 S O . O O S . O . O 
+ 7 O O O O O X . O O O 
+ 8 X X S . O X . O . . 
+ 9 . . O . O . . O . . 
+10 O O O S O O . O O . 
+
+Ievadiet koordinātu A-J: g
+Ievadiet koordinātu (1-10): 2
+Jūs trāpijat datora kuģi!
+   A B C D E F G H I J
+ 1 X O O . . O O O . O 
+ 2 O O X X O O X O . X 
+ 3 O . O . . O . O . X 
+ 4 X . O . . O . O . O 
+ 5 O . . . . O . . . O 
+ 6 O . . . . O . O . O 
+ 7 O . . . . O . O . O 
+ 8 O . . . . O . . X O 
+ 9 X O O X X X O O O O 
+10 O . . . . O . O O X 
+
+Datora gājiens...
+Dators trāpija garām! Datora šaviena koordinātas (G, 6)
+Jūsu kuģi:
+   A B C D E F G H I J 
+ 1 . S O O . . O S . . 
+ 2 O . O . X . . . O . 
+ 3 O X O O S O O S O X 
+ 4 O S O O O . O X O X 
+ 5 . O . O . S O S O . 
+ 6 S O . O O S O O . O 
+ 7 O O O O O X . O O O 
+ 8 X X S . O X . O . . 
+ 9 . . O . O . . O . . 
+10 O O O S O O . O O . 
+
+Ievadiet koordinātu A-J: g
+Ievadiet koordinātu (1-10): 3
+Jūs trāpijat datora kuģi!
+   A B C D E F G H I J
+ 1 X O O . . O O O . O 
+ 2 O O X X O O X O . X 
+ 3 O . O . . O X O . X 
+ 4 X . O . . O . O . O 
+ 5 O . . . . O . . . O 
+ 6 O . . . . O . O . O 
+ 7 O . . . . O . O . O 
+ 8 O . . . . O . . X O 
+ 9 X O O X X X O O O O 
+10 O . . . . O . O O X 
+
+Datora gājiens...
+Dators trāpija garām! Datora šaviena koordinātas (D, 8)
+Jūsu kuģi:
+   A B C D E F G H I J 
+ 1 . S O O . . O S . . 
+ 2 O . O . X . . . O . 
+ 3 O X O O S O O S O X 
+ 4 O S O O O . O X O X 
+ 5 . O . O . S O S O . 
+ 6 S O . O O S O O . O 
+ 7 O O O O O X . O O O 
+ 8 X X S O O X . O . . 
+ 9 . . O . O . . O . . 
+10 O O O S O O . O O . 
+
+Ievadiet koordinātu A-J: g
+Ievadiet koordinātu (1-10): 4
+Jūs trāpijat datora kuģi!
+   A B C D E F G H I J
+ 1 X O O . . O O O . O 
+ 2 O O X X O O X O . X 
+ 3 O . O . . O X O . X 
+ 4 X . O . . O X O . O 
+ 5 O . . . . O . . . O 
+ 6 O . . . . O . O . O 
+ 7 O . . . . O . O . O 
+ 8 O . . . . O . . X O 
+ 9 X O O X X X O O O O 
+10 O . . . . O . O O X 
+
+Datora gājiens...
+Dators trāpija garām! Datora šaviena koordinātas (F, 1)
+Jūsu kuģi:
+   A B C D E F G H I J 
+ 1 . S O O . O O S . . 
+ 2 O . O . X . . . O . 
+ 3 O X O O S O O S O X 
+ 4 O S O O O . O X O X 
+ 5 . O . O . S O S O . 
+ 6 S O . O O S O O . O 
+ 7 O O O O O X . O O O 
+ 8 X X S O O X . O . . 
+ 9 . . O . O . . O . . 
+10 O O O S O O . O O . 
+
+Ievadiet koordinātu A-J: g
+Ievadiet koordinātu (1-10): 5
+Jūs trāpijat datora kuģi!
+   A B C D E F G H I J
+ 1 X O O . . O O O . O 
+ 2 O O X X O O X O . X 
+ 3 O . O . . O X O . X 
+ 4 X . O . . O X O . O 
+ 5 O . . . . O X . . O 
+ 6 O . . . . O . O . O 
+ 7 O . . . . O . O . O 
+ 8 O . . . . O . . X O 
+ 9 X O O X X X O O O O 
+10 O . . . . O . O O X 
+
+Datora gājiens...
+Dators trāpija garām! Datora šaviena koordinātas (J, 8)
+Jūsu kuģi:
+   A B C D E F G H I J 
+ 1 . S O O . O O S . . 
+ 2 O . O . X . . . O . 
+ 3 O X O O S O O S O X 
+ 4 O S O O O . O X O X 
+ 5 . O . O . S O S O . 
+ 6 S O . O O S O O . O 
+ 7 O O O O O X . O O O 
+ 8 X X S O O X . O . O 
+ 9 . . O . O . . O . . 
+10 O O O S O O . O O . 
+
+Ievadiet koordinātu A-J: g
+Ievadiet koordinātu (1-10): 6
+Garām!
+
+   A B C D E F G H I J
+ 1 X O O . . O O O . O 
+ 2 O O X X O O X O . X 
+ 3 O . O . . O X O . X 
+ 4 X . O . . O X O . O 
+ 5 O . . . . O X . . O 
+ 6 O . . . . O O O . O 
+ 7 O . . . . O . O . O 
+ 8 O . . . . O . . X O 
+ 9 X O O X X X O O O O 
+10 O . . . . O . O O X 
+
+Datora gājiens...
+Dators trāpija garām! Datora šaviena koordinātas (D, 2)
+Jūsu kuģi:
+   A B C D E F G H I J 
+ 1 . S O O . O O S . . 
+ 2 O . O O X . . . O . 
+ 3 O X O O S O O S O X 
+ 4 O S O O O . O X O X 
+ 5 . O . O . S O S O . 
+ 6 S O . O O S O O . O 
+ 7 O O O O O X . O O O 
+ 8 X X S O O X . O . O 
+ 9 . . O . O . . O . . 
+10 O O O S O O . O O . 
+
+Ievadiet koordinātu A-J: g
+Ievadiet koordinātu (1-10): 7
+Garām!
+
+   A B C D E F G H I J
+ 1 X O O . . O O O . O 
+ 2 O O X X O O X O . X 
+ 3 O . O . . O X O . X 
+ 4 X . O . . O X O . O 
+ 5 O . . . . O X . . O 
+ 6 O . . . . O O O . O 
+ 7 O . . . . O O O . O 
+ 8 O . . . . O . . X O 
+ 9 X O O X X X O O O O 
+10 O . . . . O . O O X 
+
+Datora gājiens...
+Dators trāpija Jūsu kuģi ar koordinātam (H, 1)
+Jūsu kuģi:
+   A B C D E F G H I J 
+ 1 . S O O . O O X . . 
+ 2 O . O O X . . . O . 
+ 3 O X O O S O O S O X 
+ 4 O S O O O . O X O X 
+ 5 . O . O . S O S O . 
+ 6 S O . O O S O O . O 
+ 7 O O O O O X . O O O 
+ 8 X X S O O X . O . O 
+ 9 . . O . O . . O . . 
+10 O O O S O O . O O . 
+
+Ievadiet koordinātu A-J: g
+Ievadiet koordinātu (1-10): 6
+Garām!
+
+   A B C D E F G H I J
+ 1 X O O . . O O O . O 
+ 2 O O X X O O X O . X 
+ 3 O . O . . O X O . X 
+ 4 X . O . . O X O . O 
+ 5 O . . . . O X . . O 
+ 6 O . . . . O O O . O 
+ 7 O . . . . O O O . O 
+ 8 O . . . . O . . X O 
+ 9 X O O X X X O O O O 
+10 O . . . . O . O O X 
+
+Datora gājiens...
+Dators trāpija garām! Datora šaviena koordinātas (B, 9)
+Jūsu kuģi:
+   A B C D E F G H I J 
+ 1 . S O O . O O X . . 
+ 2 O . O O X . . . O . 
+ 3 O X O O S O O S O X 
+ 4 O S O O O . O X O X 
+ 5 . O . O . S O S O . 
+ 6 S O . O O S O O . O 
+ 7 O O O O O X . O O O 
+ 8 X X S O O X . O . O 
+ 9 . O O . O . . O . . 
+10 O O O S O O . O O . 
+
+Ievadiet koordinātu A-J: g
+Ievadiet koordinātu (1-10): 8
+Garām!
+
+   A B C D E F G H I J
+ 1 X O O . . O O O . O 
+ 2 O O X X O O X O . X 
+ 3 O . O . . O X O . X 
+ 4 X . O . . O X O . O 
+ 5 O . . . . O X . . O 
+ 6 O . . . . O O O . O 
+ 7 O . . . . O O O . O 
+ 8 O . . . . O O . X O 
+ 9 X O O X X X O O O O 
+10 O . . . . O . O O X 
+
+Datora gājiens...
+Dators trāpija garām! Datora šaviena koordinātas (F, 4)
+Jūsu kuģi:
+   A B C D E F G H I J 
+ 1 . S O O . O O X . . 
+ 2 O . O O X . . . O . 
+ 3 O X O O S O O S O X 
+ 4 O S O O O O O X O X 
+ 5 . O . O . S O S O . 
+ 6 S O . O O S O O . O 
+ 7 O O O O O X . O O O 
+ 8 X X S O O X . O . O 
+ 9 . O O . O . . O . . 
+10 O O O S O O . O O . 
+
+Ievadiet koordinātu A-J: g
+Ievadiet koordinātu (1-10): 10
+Garām!
+
+   A B C D E F G H I J
+ 1 X O O . . O O O . O 
+ 2 O O X X O O X O . X 
+ 3 O . O . . O X O . X 
+ 4 X . O . . O X O . O 
+ 5 O . . . . O X . . O 
+ 6 O . . . . O O O . O 
+ 7 O . . . . O O O . O 
+ 8 O . . . . O O . X O 
+ 9 X O O X X X O O O O 
+10 O . . . . O O O O X 
+
+Datora gājiens...
+Dators trāpija garām! Datora šaviena koordinātas (I, 6)
+Jūsu kuģi:
+   A B C D E F G H I J 
+ 1 . S O O . O O X . . 
+ 2 O . O O X . . . O . 
+ 3 O X O O S O O S O X 
+ 4 O S O O O O O X O X 
+ 5 . O . O . S O S O . 
+ 6 S O . O O S O O O O 
+ 7 O O O O O X . O O O 
+ 8 X X S O O X . O . O 
+ 9 . O O . O . . O . . 
+10 O O O S O O . O O . 
+
+Ievadiet koordinātu A-J: h
+Ievadiet koordinātu (1-10): 8
+Garām!
+
+   A B C D E F G H I J
+ 1 X O O . . O O O . O 
+ 2 O O X X O O X O . X 
+ 3 O . O . . O X O . X 
+ 4 X . O . . O X O . O 
+ 5 O . . . . O X . . O 
+ 6 O . . . . O O O . O 
+ 7 O . . . . O O O . O 
+ 8 O . . . . O O O X O 
+ 9 X O O X X X O O O O 
+10 O . . . . O O O O X 
+
+Datora gājiens...
+Dators trāpija garām! Datora šaviena koordinātas (J, 1)
+Jūsu kuģi:
+   A B C D E F G H I J 
+ 1 . S O O . O O X . O 
+ 2 O . O O X . . . O . 
+ 3 O X O O S O O S O X 
+ 4 O S O O O O O X O X 
+ 5 . O . O . S O S O . 
+ 6 S O . O O S O O O O 
+ 7 O O O O O X . O O O 
+ 8 X X S O O X . O . O 
+ 9 . O O . O . . O . . 
+10 O O O S O O . O O . 
+
+Ievadiet koordinātu A-J: i
+Ievadiet koordinātu (1-10): 7
+Jūs trāpijat datora kuģi!
+   A B C D E F G H I J
+ 1 X O O . . O O O . O 
+ 2 O O X X O O X O . X 
+ 3 O . O . . O X O . X 
+ 4 X . O . . O X O . O 
+ 5 O . . . . O X . . O 
+ 6 O . . . . O O O . O 
+ 7 O . . . . O O O X O 
+ 8 O . . . . O O O X O 
+ 9 X O O X X X O O O O 
+10 O . . . . O O O O X 
+
+Datora gājiens...
+Dators trāpija garām! Datora šaviena koordinātas (F, 9)
+Jūsu kuģi:
+   A B C D E F G H I J 
+ 1 . S O O . O O X . O 
+ 2 O . O O X . . . O . 
+ 3 O X O O S O O S O X 
+ 4 O S O O O O O X O X 
+ 5 . O . O . S O S O . 
+ 6 S O . O O S O O O O 
+ 7 O O O O O X . O O O 
+ 8 X X S O O X . O . O 
+ 9 . O O . O O . O . . 
+10 O O O S O O . O O . 
+
+Ievadiet koordinātu A-J: i
+Ievadiet koordinātu (1-10): 7
+Jūs trāpijat datora kuģi!
+   A B C D E F G H I J
+ 1 X O O . . O O O . O 
+ 2 O O X X O O X O . X 
+ 3 O . O . . O X O . X 
+ 4 X . O . . O X O . O 
+ 5 O . . . . O X . . O 
+ 6 O . . . . O O O . O 
+ 7 O . . . . O O O X O 
+ 8 O . . . . O O O X O 
+ 9 X O O X X X O O O O 
+10 O . . . . O O O O X 
+
+Datora gājiens...
+Dators trāpija Jūsu kuģi ar koordinātam (C, 8)
+Jūsu kuģi:
+   A B C D E F G H I J 
+ 1 . S O O . O O X . O 
+ 2 O . O O X . . . O . 
+ 3 O X O O S O O S O X 
+ 4 O S O O O O O X O X 
+ 5 . O . O . S O S O . 
+ 6 S O . O O S O O O O 
+ 7 O O O O O X . O O O 
+ 8 X X X O O X . O . O 
+ 9 . O O . O O . O . . 
+10 O O O S O O . O O . 
+
+Ievadiet koordinātu A-J: i
+Ievadiet koordinātu (1-10): 6
+Jūs trāpijat datora kuģi!
+   A B C D E F G H I J
+ 1 X O O . . O O O . O 
+ 2 O O X X O O X O . X 
+ 3 O . O . . O X O . X 
+ 4 X . O . . O X O . O 
+ 5 O . . . . O X . . O 
+ 6 O . . . . O O O X O 
+ 7 O . . . . O O O X O 
+ 8 O . . . . O O O X O 
+ 9 X O O X X X O O O O 
+10 O . . . . O O O O X 
+
+Datora gājiens...
+Dators trāpija garām! Datora šaviena koordinātas (C, 5)
+Jūsu kuģi:
+   A B C D E F G H I J 
+ 1 . S O O . O O X . O 
+ 2 O . O O X . . . O . 
+ 3 O X O O S O O S O X 
+ 4 O S O O O O O X O X 
+ 5 . O O O . S O S O . 
+ 6 S O . O O S O O O O 
+ 7 O O O O O X . O O O 
+ 8 X X X O O X . O . O 
+ 9 . O O . O O . O . . 
+10 O O O S O O . O O . 
+
+Ievadiet koordinātu A-J: i
+Ievadiet koordinātu (1-10): 5
+Garām!
+
+   A B C D E F G H I J
+ 1 X O O . . O O O . O 
+ 2 O O X X O O X O . X 
+ 3 O . O . . O X O . X 
+ 4 X . O . . O X O . O 
+ 5 O . . . . O X . O O 
+ 6 O . . . . O O O X O 
+ 7 O . . . . O O O X O 
+ 8 O . . . . O O O X O 
+ 9 X O O X X X O O O O 
+10 O . . . . O O O O X 
+
+Datora gājiens...
+Dators trāpija garām! Datora šaviena koordinātas (J, 2)
+Jūsu kuģi:
+   A B C D E F G H I J 
+ 1 . S O O . O O X . O 
+ 2 O . O O X . . . O O 
+ 3 O X O O S O O S O X 
+ 4 O S O O O O O X O X 
+ 5 . O O O . S O S O . 
+ 6 S O . O O S O O O O 
+ 7 O O O O O X . O O O 
+ 8 X X X O O X . O . O 
+ 9 . O O . O O . O . . 
+10 O O O S O O . O O . 
+
+Ievadiet koordinātu A-J: i
+Ievadiet koordinātu (1-10): 3
+Garām!
+
+   A B C D E F G H I J
+ 1 X O O . . O O O . O 
+ 2 O O X X O O X O . X 
+ 3 O . O . . O X O O X 
+ 4 X . O . . O X O . O 
+ 5 O . . . . O X . O O 
+ 6 O . . . . O O O X O 
+ 7 O . . . . O O O X O 
+ 8 O . . . . O O O X O 
+ 9 X O O X X X O O O O 
+10 O . . . . O O O O X 
+
+Datora gājiens...
+Dators trāpija garām! Datora šaviena koordinātas (J, 10)
+Jūsu kuģi:
+   A B C D E F G H I J 
+ 1 . S O O . O O X . O 
+ 2 O . O O X . . . O O 
+ 3 O X O O S O O S O X 
+ 4 O S O O O O O X O X 
+ 5 . O O O . S O S O . 
+ 6 S O . O O S O O O O 
+ 7 O O O O O X . O O O 
+ 8 X X X O O X . O . O 
+ 9 . O O . O O . O . . 
+10 O O O S O O . O O O 
+
+Ievadiet koordinātu A-J: c
+Ievadiet koordinātu (1-10): 5
+Garām!
+
+   A B C D E F G H I J
+ 1 X O O . . O O O . O 
+ 2 O O X X O O X O . X 
+ 3 O . O . . O X O O X 
+ 4 X . O . . O X O . O 
+ 5 O . O . . O X . O O 
+ 6 O . . . . O O O X O 
+ 7 O . . . . O O O X O 
+ 8 O . . . . O O O X O 
+ 9 X O O X X X O O O O 
+10 O . . . . O O O O X 
+
+Datora gājiens...
+Dators trāpija garām! Datora šaviena koordinātas (A, 1)
+Jūsu kuģi:
+   A B C D E F G H I J 
+ 1 O S O O . O O X . O 
+ 2 O . O O X . . . O O 
+ 3 O X O O S O O S O X 
+ 4 O S O O O O O X O X 
+ 5 . O O O . S O S O . 
+ 6 S O . O O S O O O O 
+ 7 O O O O O X . O O O 
+ 8 X X X O O X . O . O 
+ 9 . O O . O O . O . . 
+10 O O O S O O . O O O 
+
+Ievadiet koordinātu A-J: c
+Ievadiet koordinātu (1-10): 6
+Garām!
+
+   A B C D E F G H I J
+ 1 X O O . . O O O . O 
+ 2 O O X X O O X O . X 
+ 3 O . O . . O X O O X 
+ 4 X . O . . O X O . O 
+ 5 O . O . . O X . O O 
+ 6 O . O . . O O O X O 
+ 7 O . . . . O O O X O 
+ 8 O . . . . O O O X O 
+ 9 X O O X X X O O O O 
+10 O . . . . O O O O X 
+
+Datora gājiens...
+Dators trāpija garām! Datora šaviena koordinātas (J, 9)
+Jūsu kuģi:
+   A B C D E F G H I J 
+ 1 O S O O . O O X . O 
+ 2 O . O O X . . . O O 
+ 3 O X O O S O O S O X 
+ 4 O S O O O O O X O X 
+ 5 . O O O . S O S O . 
+ 6 S O . O O S O O O O 
+ 7 O O O O O X . O O O 
+ 8 X X X O O X . O . O 
+ 9 . O O . O O . O . O 
+10 O O O S O O . O O O 
+
+Ievadiet koordinātu A-J: c
+Ievadiet koordinātu (1-10): 6
+Garām!
+
+   A B C D E F G H I J
+ 1 X O O . . O O O . O 
+ 2 O O X X O O X O . X 
+ 3 O . O . . O X O O X 
+ 4 X . O . . O X O . O 
+ 5 O . O . . O X . O O 
+ 6 O . O . . O O O X O 
+ 7 O . . . . O O O X O 
+ 8 O . . . . O O O X O 
+ 9 X O O X X X O O O O 
+10 O . . . . O O O O X 
+
+Datora gājiens...
+Dators trāpija garām! Datora šaviena koordinātas (C, 6)
+Jūsu kuģi:
+   A B C D E F G H I J 
+ 1 O S O O . O O X . O 
+ 2 O . O O X . . . O O 
+ 3 O X O O S O O S O X 
+ 4 O S O O O O O X O X 
+ 5 . O O O . S O S O . 
+ 6 S O O O O S O O O O 
+ 7 O O O O O X . O O O 
+ 8 X X X O O X . O . O 
+ 9 . O O . O O . O . O 
+10 O O O S O O . O O O 
+
+Ievadiet koordinātu A-J: c
+Ievadiet koordinātu (1-10): 3
+Garām!
+
+   A B C D E F G H I J
+ 1 X O O . . O O O . O 
+ 2 O O X X O O X O . X 
+ 3 O . O . . O X O O X 
+ 4 X . O . . O X O . O 
+ 5 O . O . . O X . O O 
+ 6 O . O . . O O O X O 
+ 7 O . . . . O O O X O 
+ 8 O . . . . O O O X O 
+ 9 X O O X X X O O O O 
+10 O . . . . O O O O X 
+
+Datora gājiens...
+Dators trāpija garām! Datora šaviena koordinātas (D, 9)
+Jūsu kuģi:
+   A B C D E F G H I J 
+ 1 O S O O . O O X . O 
+ 2 O . O O X . . . O O 
+ 3 O X O O S O O S O X 
+ 4 O S O O O O O X O X 
+ 5 . O O O . S O S O . 
+ 6 S O O O O S O O O O 
+ 7 O O O O O X . O O O 
+ 8 X X X O O X . O . O 
+ 9 . O O O O O . O . O 
+10 O O O S O O . O O O 
+
+Ievadiet koordinātu A-J: c
+Ievadiet koordinātu (1-10): 8
+Garām!
+
+   A B C D E F G H I J
+ 1 X O O . . O O O . O 
+ 2 O O X X O O X O . X 
+ 3 O . O . . O X O O X 
+ 4 X . O . . O X O . O 
+ 5 O . O . . O X . O O 
+ 6 O . O . . O O O X O 
+ 7 O . . . . O O O X O 
+ 8 O . O . . O O O X O 
+ 9 X O O X X X O O O O 
+10 O . . . . O O O O X 
+
+Datora gājiens...
+Dators trāpija Jūsu kuģi ar koordinātam (D, 10)
+Jūsu kuģi:
+   A B C D E F G H I J 
+ 1 O S O O . O O X . O 
+ 2 O . O O X . . . O O 
+ 3 O X O O S O O S O X 
+ 4 O S O O O O O X O X 
+ 5 . O O O . S O S O . 
+ 6 S O O O O S O O O O 
+ 7 O O O O O X . O O O 
+ 8 X X X O O X . O . O 
+ 9 . O O O O O . O . O 
+10 O O O X O O . O O O 
+
+Ievadiet koordinātu A-J: c
+Ievadiet koordinātu (1-10): 7
+Garām!
+
+   A B C D E F G H I J
+ 1 X O O . . O O O . O 
+ 2 O O X X O O X O . X 
+ 3 O . O . . O X O O X 
+ 4 X . O . . O X O . O 
+ 5 O . O . . O X . O O 
+ 6 O . O . . O O O X O 
+ 7 O . O . . O O O X O 
+ 8 O . O . . O O O X O 
+ 9 X O O X X X O O O O 
+10 O . . . . O O O O X 
+
+Datora gājiens...
+Dators trāpija garām! Datora šaviena koordinātas (G, 7)
+Jūsu kuģi:
+   A B C D E F G H I J 
+ 1 O S O O . O O X . O 
+ 2 O . O O X . . . O O 
+ 3 O X O O S O O S O X 
+ 4 O S O O O O O X O X 
+ 5 . O O O . S O S O . 
+ 6 S O O O O S O O O O 
+ 7 O O O O O X O O O O 
+ 8 X X X O O X . O . O 
+ 9 . O O O O O . O . O 
+10 O O O X O O . O O O 
+
+Ievadiet koordinātu A-J: b
+Ievadiet koordinātu (1-10): 6
+Garām!
+
+   A B C D E F G H I J
+ 1 X O O . . O O O . O 
+ 2 O O X X O O X O . X 
+ 3 O . O . . O X O O X 
+ 4 X . O . . O X O . O 
+ 5 O . O . . O X . O O 
+ 6 O O O . . O O O X O 
+ 7 O . O . . O O O X O 
+ 8 O . O . . O O O X O 
+ 9 X O O X X X O O O O 
+10 O . . . . O O O O X 
+
+Datora gājiens...
+Dators trāpija Jūsu kuģi ar koordinātam (E, 3)
+Jūsu kuģi:
+   A B C D E F G H I J 
+ 1 O S O O . O O X . O 
+ 2 O . O O X . . . O O 
+ 3 O X O O X O O S O X 
+ 4 O S O O O O O X O X 
+ 5 . O O O . S O S O . 
+ 6 S O O O O S O O O O 
+ 7 O O O O O X O O O O 
+ 8 X X X O O X . O . O 
+ 9 . O O O O O . O . O 
+10 O O O X O O . O O O 
+
+Ievadiet koordinātu A-J: b
+Ievadiet koordinātu (1-10): 8
+Garām!
+
+   A B C D E F G H I J
+ 1 X O O . . O O O . O 
+ 2 O O X X O O X O . X 
+ 3 O . O . . O X O O X 
+ 4 X . O . . O X O . O 
+ 5 O . O . . O X . O O 
+ 6 O O O . . O O O X O 
+ 7 O . O . . O O O X O 
+ 8 O O O . . O O O X O 
+ 9 X O O X X X O O O O 
+10 O . . . . O O O O X 
+
+Datora gājiens...
+Dators trāpija Jūsu kuģi ar koordinātam (H, 5)
+Jūsu kuģi:
+   A B C D E F G H I J 
+ 1 O S O O . O O X . O 
+ 2 O . O O X . . . O O 
+ 3 O X O O X O O S O X 
+ 4 O S O O O O O X O X 
+ 5 . O O O . S O X O . 
+ 6 S O O O O S O O O O 
+ 7 O O O O O X O O O O 
+ 8 X X X O O X . O . O 
+ 9 . O O O O O . O . O 
+10 O O O X O O . O O O 
+
+Ievadiet koordinātu A-J: b
+Ievadiet koordinātu (1-10): 7
+Garām!
+
+   A B C D E F G H I J
+ 1 X O O . . O O O . O 
+ 2 O O X X O O X O . X 
+ 3 O . O . . O X O O X 
+ 4 X . O . . O X O . O 
+ 5 O . O . . O X . O O 
+ 6 O O O . . O O O X O 
+ 7 O O O . . O O O X O 
+ 8 O O O . . O O O X O 
+ 9 X O O X X X O O O O 
+10 O . . . . O O O O X 
+
+Datora gājiens...
+Dators trāpija garām! Datora šaviena koordinātas (H, 2)
+Jūsu kuģi:
+   A B C D E F G H I J 
+ 1 O S O O . O O X . O 
+ 2 O . O O X . . O O O 
+ 3 O X O O X O O S O X 
+ 4 O S O O O O O X O X 
+ 5 . O O O . S O X O . 
+ 6 S O O O O S O O O O 
+ 7 O O O O O X O O O O 
+ 8 X X X O O X . O . O 
+ 9 . O O O O O . O . O 
+10 O O O X O O . O O O 
+
+Ievadiet koordinātu A-J: d
+Ievadiet koordinātu (1-10): 4
+Garām!
+
+   A B C D E F G H I J
+ 1 X O O . . O O O . O 
+ 2 O O X X O O X O . X 
+ 3 O . O . . O X O O X 
+ 4 X . O O . O X O . O 
+ 5 O . O . . O X . O O 
+ 6 O O O . . O O O X O 
+ 7 O O O . . O O O X O 
+ 8 O O O . . O O O X O 
+ 9 X O O X X X O O O O 
+10 O . . . . O O O O X 
+
+Datora gājiens...
+Dators trāpija garām! Datora šaviena koordinātas (G, 8)
+Jūsu kuģi:
+   A B C D E F G H I J 
+ 1 O S O O . O O X . O 
+ 2 O . O O X . . O O O 
+ 3 O X O O X O O S O X 
+ 4 O S O O O O O X O X 
+ 5 . O O O . S O X O . 
+ 6 S O O O O S O O O O 
+ 7 O O O O O X O O O O 
+ 8 X X X O O X O O . O 
+ 9 . O O O O O . O . O 
+10 O O O X O O . O O O 
+
+Ievadiet koordinātu A-J: d
+Ievadiet koordinātu (1-10): 5
+Garām!
+
+   A B C D E F G H I J
+ 1 X O O . . O O O . O 
+ 2 O O X X O O X O . X 
+ 3 O . O . . O X O O X 
+ 4 X . O O . O X O . O 
+ 5 O . O O . O X . O O 
+ 6 O O O . . O O O X O 
+ 7 O O O . . O O O X O 
+ 8 O O O . . O O O X O 
+ 9 X O O X X X O O O O 
+10 O . . . . O O O O X 
+
+Datora gājiens...
+Dators trāpija garām! Datora šaviena koordinātas (A, 9)
+Jūsu kuģi:
+   A B C D E F G H I J 
+ 1 O S O O . O O X . O 
+ 2 O . O O X . . O O O 
+ 3 O X O O X O O S O X 
+ 4 O S O O O O O X O X 
+ 5 . O O O . S O X O . 
+ 6 S O O O O S O O O O 
+ 7 O O O O O X O O O O 
+ 8 X X X O O X O O . O 
+ 9 O O O O O O . O . O 
+10 O O O X O O . O O O 
+
+Ievadiet koordinātu A-J: d
+Ievadiet koordinātu (1-10): 7
+Jūs trāpijat datora kuģi!
+   A B C D E F G H I J
+ 1 X O O . . O O O . O 
+ 2 O O X X O O X O . X 
+ 3 O . O . . O X O O X 
+ 4 X . O O . O X O . O 
+ 5 O . O O . O X . O O 
+ 6 O O O . . O O O X O 
+ 7 O O O X . O O O X O 
+ 8 O O O . . O O O X O 
+ 9 X O O X X X O O O O 
+10 O . . . . O O O O X 
+
+Datora gājiens...
+Dators trāpija Jūsu kuģi ar koordinātam (B, 4)
+Jūsu kuģi:
+   A B C D E F G H I J 
+ 1 O S O O . O O X . O 
+ 2 O . O O X . . O O O 
+ 3 O X O O X O O S O X 
+ 4 O X O O O O O X O X 
+ 5 . O O O . S O X O . 
+ 6 S O O O O S O O O O 
+ 7 O O O O O X O O O O 
+ 8 X X X O O X O O . O 
+ 9 O O O O O O . O . O 
+10 O O O X O O . O O O 
+
+Ievadiet koordinātu A-J: d
+Ievadiet koordinātu (1-10): 7
+Jūs trāpijat datora kuģi!
+   A B C D E F G H I J
+ 1 X O O . . O O O . O 
+ 2 O O X X O O X O . X 
+ 3 O . O . . O X O O X 
+ 4 X . O O . O X O . O 
+ 5 O . O O . O X . O O 
+ 6 O O O . . O O O X O 
+ 7 O O O X . O O O X O 
+ 8 O O O . . O O O X O 
+ 9 X O O X X X O O O O 
+10 O . . . . O O O O X 
+
+Datora gājiens...
+Dators trāpija Jūsu kuģi ar koordinātam (H, 3)
+Jūsu kuģi:
+   A B C D E F G H I J 
+ 1 O S O O . O O X . O 
+ 2 O . O O X . . O O O 
+ 3 O X O O X O O X O X 
+ 4 O X O O O O O X O X 
+ 5 . O O O . S O X O . 
+ 6 S O O O O S O O O O 
+ 7 O O O O O X O O O O 
+ 8 X X X O O X O O . O 
+ 9 O O O O O O . O . O 
+10 O O O X O O . O O O 
+
+Ievadiet koordinātu A-J: d
+Ievadiet koordinātu (1-10): 6
+Garām!
+
+   A B C D E F G H I J
+ 1 X O O . . O O O . O 
+ 2 O O X X O O X O . X 
+ 3 O . O . . O X O O X 
+ 4 X . O O . O X O . O 
+ 5 O . O O . O X . O O 
+ 6 O O O O . O O O X O 
+ 7 O O O X . O O O X O 
+ 8 O O O . . O O O X O 
+ 9 X O O X X X O O O O 
+10 O . . . . O O O O X 
+
+Datora gājiens...
+Dators trāpija garām! Datora šaviena koordinātas (I, 8)
+Jūsu kuģi:
+   A B C D E F G H I J 
+ 1 O S O O . O O X . O 
+ 2 O . O O X . . O O O 
+ 3 O X O O X O O X O X 
+ 4 O X O O O O O X O X 
+ 5 . O O O . S O X O . 
+ 6 S O O O O S O O O O 
+ 7 O O O O O X O O O O 
+ 8 X X X O O X O O O O 
+ 9 O O O O O O . O . O 
+10 O O O X O O . O O O 
+
+Ievadiet koordinātu A-J: e
+Ievadiet koordinātu (1-10): 7
+Jūs trāpijat datora kuģi!
+   A B C D E F G H I J
+ 1 X O O . . O O O . O 
+ 2 O O X X O O X O . X 
+ 3 O . O . . O X O O X 
+ 4 X . O O . O X O . O 
+ 5 O . O O . O X . O O 
+ 6 O O O O . O O O X O 
+ 7 O O O X X O O O X O 
+ 8 O O O . . O O O X O 
+ 9 X O O X X X O O O O 
+10 O . . . . O O O O X 
+
+Jūs uzvarējat! Apsveicam!
