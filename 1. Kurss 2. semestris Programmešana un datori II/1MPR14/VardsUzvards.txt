@@ -1,0 +1,63 @@
+Liecība ID: 10000000000 (Klase: 10A):
+Priekšmets: Matemātika, Vidējā atzīme: 1
+Priekšmets: Dabaszinības, Vidējā atzīme: 7
+Priekšmets: Vēsture, Vidējā atzīme: 10
+Priekšmets: Ģeogrāfija, Vidējā atzīme: 6
+Priekšmets: Datorika, Vidējā atzīme: 10
+
+Liecība ID: 10000000001 (Klase: 11B):
+Priekšmets: Matemātika, Vidējā atzīme: 5
+Priekšmets: Dabaszinības, Vidējā atzīme: 6
+Priekšmets: Vēsture, Vidējā atzīme: 9
+Priekšmets: Ģeogrāfija, Vidējā atzīme: 8
+Priekšmets: Datorika, Vidējā atzīme: 5
+
+Liecība ID: 10000000002 (Klase: 1A):
+Priekšmets: Matemātika, Vidējā atzīme: 2
+Priekšmets: Dabaszinības, Vidējā atzīme: 2
+Priekšmets: Vēsture, Vidējā atzīme: 6
+
+Liecība ID: 10000000003 (Klase: 6A):
+Priekšmets: Matemātika, Vidējā atzīme: 4
+Priekšmets: Dabaszinības, Vidējā atzīme: 5
+Priekšmets: Vēsture, Vidējā atzīme: 6
+Priekšmets: Datorika, Vidējā atzīme: 8
+
+Liecība ID: 10000000004 (Klase: 6A):
+Priekšmets: Matemātika, Vidējā atzīme: 4
+Priekšmets: Dabaszinības, Vidējā atzīme: 7
+Priekšmets: Vēsture, Vidējā atzīme: 7
+Priekšmets: Datorika, Vidējā atzīme: 7
+
+Liecība ID: 10000000005 (Klase: 1A):
+Priekšmets: Matemātika, Vidējā atzīme: 1
+Priekšmets: Dabaszinības, Vidējā atzīme: 2
+Priekšmets: Vēsture, Vidējā atzīme: 2
+
+Liecība ID: 10000000006 (Klase: 10A):
+Priekšmets: Matemātika, Vidējā atzīme: 10
+Priekšmets: Dabaszinības, Vidējā atzīme: 9
+Priekšmets: Vēsture, Vidējā atzīme: 6
+Priekšmets: Ģeogrāfija, Vidējā atzīme: 5
+Priekšmets: Datorika, Vidējā atzīme: 5
+
+Liecība ID: 10000000007 (Klase: 12A):
+Priekšmets: Matemātika, Vidējā atzīme: 10
+Priekšmets: Dabaszinības, Vidējā atzīme: 10
+Priekšmets: Vēsture, Vidējā atzīme: 10
+Priekšmets: Ģeogrāfija, Vidējā atzīme: 10
+Priekšmets: Datorika, Vidējā atzīme: 10
+
+Liecība ID: 10000000008 (Klase: 12A):
+Priekšmets: Matemātika, Vidējā atzīme: 9
+Priekšmets: Dabaszinības, Vidējā atzīme: 4
+Priekšmets: Vēsture, Vidējā atzīme: 9
+Priekšmets: Ģeogrāfija, Vidējā atzīme: 7
+Priekšmets: Datorika, Vidējā atzīme: 5
+
+Liecība ID: 10000000009 (Klase: 6A):
+Priekšmets: Matemātika, Vidējā atzīme: 4
+Priekšmets: Dabaszinības, Vidējā atzīme: 9
+Priekšmets: Vēsture, Vidējā atzīme: 5
+Priekšmets: Datorika, Vidējā atzīme: 10
+
